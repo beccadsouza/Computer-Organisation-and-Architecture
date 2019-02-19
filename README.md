@@ -1,7 +1,5 @@
-# COA
-Computer organisation and architecture lab
+# Computer organisation and architecture
 
-To apply arithmetic algorithm for solving problems
-To demonstrate processor architectures with control signal generation.
-To describe the memory mapping techniques
-To apply I/O concept for simulating I/O device operations.
+Applied arithmetic algorithms for solving problems
+Simulated the memory mapping techniques
+Simulated different mechanisms for caching
